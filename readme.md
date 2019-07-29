@@ -2,7 +2,7 @@
 
 源码地址:
 
-https://github.com/pony-maggie/spring-security-learn
+https://github.com/pony-maggie/springboot-kafka-demo
 
 csdn博客地址:
 
